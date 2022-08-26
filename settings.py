@@ -1,0 +1,1 @@
+DataBase = '/home/fnizamov/Makers/hackathon_json_crud/db.json'
